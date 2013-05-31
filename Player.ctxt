@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=x\ y
+comment1.target=Player(int,\ int)
+comment2.params=speed
+comment2.target=void\ moveX(int)
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=int\ getXPos()
+comment5.params=
+comment5.target=int\ getYPos()
+comment6.params=
+comment6.target=Shot\ generateShot()
+comment7.params=g
+comment7.target=void\ drawPlayer(java.awt.Graphics)
+numComments=8

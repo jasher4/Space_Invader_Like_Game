@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ arrowspeed
+comment0.target=Arrow(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getYPos()
+comment2.params=
+comment2.target=int\ getXPos()
+comment3.params=
+comment3.target=int\ getRadius()
+comment4.params=
+comment4.target=int\ getLength()
+comment5.params=
+comment5.target=void\ moveArrow()
+comment6.params=g
+comment6.target=void\ drawArrow(java.awt.Graphics)
+numComments=7
